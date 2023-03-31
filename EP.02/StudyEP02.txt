@@ -38,3 +38,6 @@ random.randint(1,100)
 Color = ['red','green','orange']
 random.choice(Color)
 'green'
+
+
+********
