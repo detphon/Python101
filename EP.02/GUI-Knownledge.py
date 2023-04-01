@@ -19,6 +19,6 @@ text_enter.pack(padx=10, pady=10)
 B1 = Button(GUI,text='show',command=Button1)
 B1.pack(ipadx=20,ipady=5)
 
-GUI.mianloop()
+GUI.mainloop()
 
 
